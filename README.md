@@ -29,9 +29,9 @@ Esse projeto foi desenvolvido para fins educativos, como exercício do curso com
 - [x] Git
 
 <hr>
-
+<br> 
 <div id="contato" align="center">
-  <br> 
+
   **Criado e desenvolvido por [Camille Monteiro](https://www.linkedin.com/in/camillemonteiro/).**
   
  <div align="center"> 
