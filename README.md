@@ -20,8 +20,8 @@ Esse projeto foi desenvolvido para fins educativos, como exercício do curso com
 
 <img src="https://raw.githubusercontent.com/camimonteiro/Project_App-MeuIMC/main/img-readme/LaunchScreen.png" width="255">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/camimonteiro/Project_App-MeuIMC/main/img-readme/MainScreen.png" width="255">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="" width="255"><br>
-
+<img src="https://raw.githubusercontent.com/camimonteiro/Project_App_MeuIMC/main/img-readme/MainScreen_Search.png" width="255"><br>
+<img src="https://raw.githubusercontent.com/camimonteiro/Project_App_MeuIMC/main/img-readme/MainScreen_Result.png" width="255"><br>
 
 <h2 id="linguagens">Softwares & Ferramentas utilizadas nesse projeto 📚</h2>
 
